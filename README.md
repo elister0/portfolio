@@ -29,5 +29,6 @@
 ## Education
 ### Oklahoma State University
 - Bachelor of Science, Aerospace Administration and Operations
+- GPA: 3.98
 - Minor: Computer Science
 - Honors College
