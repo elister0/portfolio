@@ -32,3 +32,4 @@
 - GPA: 3.98
 - Minor: Computer Science
 - Honors College
+- Aspiring to pursue a Masters in Computer Science
