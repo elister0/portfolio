@@ -3,4 +3,4 @@ plugins:
 - jekyll-remote-theme 
 
 title: Emily Lister
-logo: docs/assets/headshot.jpg
+logo: docs/assets/headshot.png
